@@ -14,5 +14,4 @@ A simple Python-based password management system that includes features for user
 - Python 3.x
 - No external libraries required (uses Python standard library)
 
-## Project Structure
 
